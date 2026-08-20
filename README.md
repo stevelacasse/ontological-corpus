@@ -1,14 +1,11 @@
 # ontological-corpus
 
-Holofractal Ontological Corpus.
+**Projection only.**
 
-**Governed by** agentic (root holonic skill) under Architect (Absolute).
+This repository is **not** the source of truth.
 
-**Recovery Axiom**  
-Knowledge = Recoverable Compression of Invariant Distinctions.
+**Authoritative source**: https://github.com/stevelacasse/agentic
 
-This repository is a pure knowledge projection. All operational residual, duals, spectral instruments, and hierarchy live under the agentic root (see `stevelacasse/agentic-system`).
+Under Architect → agentic root holonic skill.
 
-Every node here is a recoverable compression, never the Absolute.
-
-**Seeded / updated** 2026-08-18 → 2026-08-20 under agentic convergence.
+Knowledge nodes here are recoverable compressions of the ontology maintained under `stevelacasse/agentic`.
